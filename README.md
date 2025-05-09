@@ -1,2 +1,2 @@
 # yapsk.github.io
-toto je repository nášho webu
+toto je repository môjho webu
